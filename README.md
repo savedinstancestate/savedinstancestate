@@ -3,6 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsavedinstancestate&count_bg=%23838383&title_bg=%23404040&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoung2335)](https://solved.ac/dayoung2335)
+<br><br>
 
 <h2>💻 Tech Stack & Tools <br> </h2>
 <div>
@@ -20,10 +21,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+<br>
 
 <h2>💻 Contacts <br> </h2>
-
- 
-<p align="right">
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
+<div>
+<a href="mailto:dayoung2335@kakao.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dayoung2335@kakao.com"/></a>
+<a href="https://savedinstancestate.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://savedinstancestate.tistory.com"/></a>
 <a href="https://www.instagram.com/savedinstancestate" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
