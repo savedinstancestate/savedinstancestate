@@ -1,6 +1,6 @@
 <h1>👋 SEO DAYOUNG <br> </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsavedinstancestate&count_bg=%23838383&title_bg=%23404040&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsavedinstancestate&count_bg=%23838383&title_bg=%23404040&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayoung2335)](https://solved.ac/dayoung2335)
 <br><br>
