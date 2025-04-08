@@ -24,6 +24,4 @@
 <h2>👾 Contacts <br> </h2>
 <div>
 <a href="mailto:dayoung2335@kakao.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dayoung2335@kakao.com"/></a>
-<a href="https://savedinstancestate.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://savedinstancestate.tistory.com"/></a>
-<a href="https://www.instagram.com/savedinstancestate" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
